@@ -1,6 +1,6 @@
 # pigeon
 
-This repository is just to provide the reference of the source code repository of both client and server
+This repository is just to provide the reference of the source code repository of both the client and server
 ***
 Client: [https://github.com/shubhankarsharma876/pigeon-frontend](https://github.com/shubhankarsharma876/pigeon-frontend)
 <br>
